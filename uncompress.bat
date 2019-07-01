@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  C:\dumps\projects\PS_Scripts\uncompress\uncompress.ps1 -ZipFilePath %1
